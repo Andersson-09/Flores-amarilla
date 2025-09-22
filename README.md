@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Flores para ti 🌻</title>
+  <title>Flores para jean 🌻</title>
   <style>
     body {
       background: black;
@@ -35,7 +35,7 @@
   </style>
 </head>
 <body>
-  <h1>🌻 Flores Para Ti 🌻</h1>
+  <h1>🌻 Flores para jean 🌻</h1>
   <h2>Feliz 21 de septiembre ❤️<br>TEN TUS FLORES AMARILLAS GRATIS!!!</h2>
 
   <div class="flores">
