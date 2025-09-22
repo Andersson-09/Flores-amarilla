@@ -36,7 +36,7 @@
 </head>
 <body>
   <h1>🌻 Flores para jean 🌻</h1>
-  <h2>Feliz 21 de septiembre ❤️<br>TEN TUS FLORES AMARILLAS GRATIS!!!</h2>
+  <h2>Feliz 21 de septiembre tardado ❤️<br>TEN TUS FLORES AMARILLAS Jean !!!</h2>
 
   <div class="flores">
     <img src="https://i.ibb.co/vZKvhYG/girasol.png" alt="Flor">
